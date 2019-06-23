@@ -1,0 +1,6 @@
+name: TangledMazeAPI
+version: 1.0
+authors: [GorgeousOne]
+api-version: 1.13
+
+main: me.gorgeousone.tangledmazeapi.core.TangledMazeAPI
